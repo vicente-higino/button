@@ -113,7 +113,7 @@ const eventsTable = [
     {
         onCount: 30,
         action: () => {
-            clickMeText.innerText = `it doesn't do anything, but farts`;
+            clickMeText.innerText = `it doesn't do anything, butt farts`;
             playFart(regularFart, true);
         }
     },
